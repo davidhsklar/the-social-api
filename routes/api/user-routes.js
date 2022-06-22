@@ -8,7 +8,6 @@ const {
   deleteUser,
   newFriend,
   deleteFriend,
-  getAllUsers,
 } = require("../../controllers/user-controller");
 
 // Route: /api/users
